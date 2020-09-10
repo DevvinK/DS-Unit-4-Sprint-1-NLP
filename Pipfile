@@ -17,6 +17,7 @@ pandas = "*"
 scipy = "*"
 beautifulsoup4 = "*"
 pyLDAvis = "==2.1.2"
+tqdm = "*"
 
 [requires]
 python_version = "3.7"
